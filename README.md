@@ -1,4 +1,4 @@
-# React Aut0
+# React Auth0
 
 An app is built with the following tech stack:
 + React
